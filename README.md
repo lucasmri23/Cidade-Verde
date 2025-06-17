@@ -7,35 +7,42 @@ O projeto foi iniciado durante a matéria de Programação para dispositivos mó
 
 ## Tela de login
 
-![Tela de Login](Design_de_prototipo/1.png)
+![Tela de Login](Design_de_Prototipo/1.png)
 
 ---
 
 ## Tela de Cadastro
 
-![Tela de Cadastro](Design_de_prototipo/2.png)
+![Tela de Cadastro](Design_de_Prototipo/2.png)
 
 ---
 
 ## Home
 
-![Home](Design_de_prototipo/3.png)
+![Home](Design_de_Prototipo/3.png)
 
 ---
 
 ## Árvores Próximas
 
-![Árvores Próximas](Design_de_prototipo/4.png)
+![Árvores Próximas](Design_de_Prototipo/4.png)
 
 ---
 
 ## Cadastro de Árvores
 
-![Cadastro de Árvores](Design_de_prototipo/5.png)
+![Cadastro de Árvores](Design_de_Prototipo/5.png)
 
 ---
 
-
 ## Minhas Contribuições
 
-![Minhas Contribuições](Design_de_prototipo/6.png)
+![Minhas Contribuições](Design_de_Prototipo/6.png)
+
+---
+
+## SideBar
+
+![SideBar](Design_de_Prototipo/7.png)
+
+---
